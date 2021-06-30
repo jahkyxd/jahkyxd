@@ -1,4 +1,4 @@
-<h2>Selamlar Ben Aris. Sizlere 3-5 bot altyapısı vericem. Kullanın tepe tepe <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+<h2>Canım sıkılınca altyapı verecem qwe <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jahkyxD&show_icons=true&hide_title=true&theme=merko">
 
