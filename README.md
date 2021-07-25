@@ -4,4 +4,6 @@
 
 Genel olarak altyapı paylaşacağım
 
-[Gerçek Discord Hesabım](https://https://discord.com/users/618444525727383592) | [Bana ulaşabilceğin sunucu](https://discord.gg/matthe) | [yutubır abimiz](https://www.youtube.com/channel/UCSbBwtkGguHo_4LVD0QMUyA)
+https://lanyard-profile-readme.vercel.app/api/618444525727383592
+
+[Gerçek Discord Hesabım](https://discord.com/users/618444525727383592) | [Bana ulaşabilceğin sunucu](https://discord.gg/matthe) | [yutubır abimiz](https://www.youtube.com/channel/UCSbBwtkGguHo_4LVD0QMUyA)
