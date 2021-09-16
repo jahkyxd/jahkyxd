@@ -3,12 +3,12 @@
 ```js
 class Jahky {
     constructor(options) {
-        this.name = Mert,
-        this.sex = man,
-        this.length = 182,
-        this.type = human,
-        this.job = student,
-        this.weight = 61
+        this.name = "Mert",
+        this.sex = "man",
+        this.length = "182",
+        this.type = "human",
+        this.job = "student",
+        this.weight = "61"
     };
 }
 
