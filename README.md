@@ -1,5 +1,19 @@
 <h2>Canım sıkılınca altyapı verecem qwe</h2>
 
+```js
+class Jahky
+ constructor (client, {
+ name: Jahky.,
+ sex: man,
+ length: 182,
+ type: human,
+ job: student,
+ weight: 61
+ };
+ 
+ module.exports = Jahky
+```
+
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jahkyxD&show_icons=true&hide_title=true&theme=merko">
 <img width="10%" align="right" src="https://komarev.com/ghpvc/?username=jahkyxd&color=dc143c">
 
