@@ -3,12 +3,12 @@
 ```js
 class Jahky
  constructor (client, {
- name: Jahky.,
- sex: man,
- length: 182,
- type: human,
- job: student,
- weight: 61
+ this.name: Jahky.,
+ this.sex: man,
+ this.length: 182,
+ this.type: human,
+ this.job: student,
+ this.weight: 61
  };
  
  module.exports = Jahky
