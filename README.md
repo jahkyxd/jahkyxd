@@ -8,7 +8,8 @@ class Jahky {
         this.length = "182",
         this.type = "human",
         this.job = "student",
-        this.weight = "61"
+        this.weight = "61",
+        this.age = "17"
     };
 }
 
