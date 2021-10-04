@@ -10,7 +10,7 @@ class Jahky {
         this.job = "student",
         this.weight = "61",
         this.age = "17",
-        this.discord.tag = "Jahky.#0001"
+        this.discord.user.tag = "Jahky.#0001"
     };
 }
 
