@@ -9,8 +9,7 @@ class Jahky {
         this.type = "human",
         this.job = "student",
         this.weight = "61",
-        this.age = "17",
-        this.discord.user.tag = "Jahky.#0001"
+        this.age = "17"
     };
 }
 
