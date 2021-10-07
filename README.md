@@ -22,4 +22,4 @@ module.exports = Jahky
 
 # My Social Media 
 
-[Discord Accounts](https://discord.com/users/618444525727383592) | [my friends server](https://discord.gg/matthe) | [Youtube](https://www.youtube.com/channel/UCSbBwtkGguHo_4LVD0QMUyA)
+Discord Accounts: [Jahky.#0001](https://discord.com/users/618444525727383592) | [my friends server](https://discord.gg/matthe) | [Youtube](https://www.youtube.com/channel/UCSbBwtkGguHo_4LVD0QMUyA)
