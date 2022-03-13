@@ -13,7 +13,7 @@ class Jahky {
     };
 }
 
-module.exports = Jahky
+export default Jahky
 ```
 # My Github Stats
                                                   
