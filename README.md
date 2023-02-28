@@ -17,7 +17,7 @@ export default Jahky
 ```
 # My Github Stats
                                                   
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=jahkyxD&show_icons=true&hide_title=true&theme=merko">
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=jahkyxd&show_icons=true&hide_title=true&theme=merko">
 <img width="11.5%" align="left" src="https://komarev.com/ghpvc/?username=jahkyxd&color=dc143c">
 
 # My Social Media 
