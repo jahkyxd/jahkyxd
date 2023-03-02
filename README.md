@@ -26,4 +26,4 @@ Discord Accounts: [Jahky.#1000](https://discord.com/users/618444525727383592) | 
 
 # Discord Activity
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/618444525727383592?hideDiscrim=false)](https://discord.com/users/444169685127135283)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/618444525727383592?hideDiscrim=false)](https://discord.com/users/618444525727383592)
