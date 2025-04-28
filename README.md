@@ -7,9 +7,9 @@ class Jahky {
         this.sex = "man",
         this.length = "182",
         this.type = "human",
-        this.job = "student",
-        this.weight = "61",
-        this.age = "17"
+        this.job = "software_technician",
+        this.weight = "75",
+        this.age = "19"
     };
 }
 
@@ -22,7 +22,7 @@ export default Jahky
 
 # My Social Media 
 
-Discord Accounts: [jahky.](https://discord.com/users/618444525727383592) | [my friends server](https://discord.gg/borangkdn) | [Youtube](https://www.youtube.com/channel/UCSbBwtkGguHo_4LVD0QMUyA) | [My Bot](https://discord.com/api/oauth2/authorize?client_id=799629195155210270&permissions=8&scope=applications.commands%20bot)
+Discord Accounts: [jahky.](https://discord.com/users/618444525727383592)
 
 # Discord Activity
 
